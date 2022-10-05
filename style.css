@@ -1,0 +1,87 @@
+*{margin: 0px;
+	padding: 0px;
+}
+#cabeçalho{
+	background-color: #f7b700;
+	text-align: center;
+	padding: 20px;
+	clear: both;
+}
+#logo{
+	margin: 10px;
+}
+#menu{
+	padding: 10px;
+}
+
+#cabeçalho a{
+	text-decoration: none;
+	padding: 10px;
+
+}
+ #cabeçalho a:link,a:visited{
+	color: white;
+}
+#cabeçalho a:hover{
+	background-color: white;
+	color: #f7b700;
+}
+
+span{
+	color: white;
+}
+body{
+	background-color: #e4e4e4;
+	font-size: 18px;
+	font-family: "Trebucher MS", Helvetica, sans-serif;
+}
+#corpo{
+	width: 930px;
+	margin: 15px auto;
+}
+.postagens{
+	float: left;
+	width: 640px;
+	padding: 10px 20px;
+	background-color: #fff;
+	margin-bottom: 10px;
+	clear: right;
+}
+.recentes{
+	float: right;
+	width: 220px;
+	background-color: white;
+	margin-bottom: 15px;
+}
+#direitos{
+	clear: both;
+	text-align: center;
+	padding: 15px;
+	background-color: #cccccc;
+}
+.titulo{
+	font-size: 1.5em;
+	color: #f7b700;
+}
+.p2{
+	padding: 0px 0px 10px 0px;
+	font-size: 0.7em;
+}
+.hrecente{
+	font-size: 1.2em;
+	background-color:#cccccc;
+}
+.precente{
+	font-size: 0.9em;
+	padding: 5px;
+}
+.postagens a{
+	color: #f7b700;
+	display: block;
+	padding: 10px;	
+}
+.recentes a{
+	color: #f7b700;
+	display: block;
+	padding: 10px;	
+}
